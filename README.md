@@ -11,3 +11,5 @@ Terraform module to create and manage Amazon Web Services IAM resources.
 ## Modules
 
 - [policy](modules/policy) - Create and manage an IAM policy.
+- [workload\_identity\_provider](modules/workload_identity_provider) - Create
+  and manage federated workload identity provider and roles to be assumed.
