@@ -2,6 +2,11 @@
 
 Terraform module to create and manage Amazon Web Services IAM resources.
 
+## Examples
+
+- [workload-identity](examples/workload-identity) - Create roles to be assumed
+  through a federated workload identity provider.
+
 ## Requirements
 
 | Name | Version |

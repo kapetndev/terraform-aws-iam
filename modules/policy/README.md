@@ -19,6 +19,11 @@ module "github_rds_policy" {
 }
 ```
 
+## Examples
+
+- [workload-identity](../../examples/workload-identity) - Create an IAM policy
+  for a federated workload identity provider.
+
 ## Requirements
 
 | Name | Version |
