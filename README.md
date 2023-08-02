@@ -10,4 +10,4 @@ Terraform module to create and manage Amazon Web Services IAM resources.
 
 ## Modules
 
-No modules.
+- [policy](modules/policy) - Create and manage an IAM policy.
