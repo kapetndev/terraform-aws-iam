@@ -30,6 +30,11 @@ module "github_action_identity_provider" {
 }
 ```
 
+## Examples
+
+- [workload-identity](../../examples/workload-identity) - Create an IAM policy
+  for a federated workload identity provider.
+
 ## Requirements
 
 | Name | Version |

@@ -1,0 +1,11 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "SID": "AllowAllRDS",
+      "Action": "rds:*",
+      "Effect": "Allow",
+      "Resource": "*"
+    }
+  ]
+}
